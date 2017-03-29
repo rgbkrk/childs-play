@@ -1,2 +1,9 @@
 # childs-play
-Tinkering with child_process and IPC
+
+Tinkering with node's `child_process` and IPC.
+
+## Usage
+
+```
+node parent.js
+```
